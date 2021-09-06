@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+.body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 200px;
+}
