@@ -3,11 +3,19 @@
     padding: 0;
 
 }
-.body{
+
+.body {
     font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
     margin-top: 0;
     margin-bottom: 200px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 1vh;
+    text-decoration: violet;
 }

@@ -3,7 +3,7 @@ import './home.css';
 import food1 from '../images/food1.jpg';
 import food2 from '../images/food2.jpg';
 import food3 from '../images/food3.jpg';
-import { Carousel,Card } from 'react-bootstrap';
+import { Carousel } from 'react-bootstrap';
 import Cards from './Cards';
 
 
@@ -47,7 +47,7 @@ function Home() {
 
                 </Carousel.Item>
             </Carousel>
-            <Cards/>
+            <Cards />
         </>
     )
 

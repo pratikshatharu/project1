@@ -1,3 +1,10 @@
-Card{
-    margin-top:5px;
+Card {
+    margin-top: 5px;
+}
+
+button {
+    background-color: red;
+    border-radius: 2px;
+    box-shadow: violet;
+    text-decoration-color: white;
 }
